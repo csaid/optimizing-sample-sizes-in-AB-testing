@@ -1,1 +1,1 @@
-# optimizing-sample-sizes-in-AB-testing
+# Optimizing sample sizes in AB testing
